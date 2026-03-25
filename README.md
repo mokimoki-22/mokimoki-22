@@ -17,16 +17,6 @@ Postdoc at Itch research center
 
 ---
 
-## Research Tools
-
-![Field Maturity Scanner](field_maturity_pipeline.svg)
-
-| Repository | Description |
-|---|---|
-| [field-maturity-scanner](https://github.com/mokimoki-22/field-maturity-scanner) | Research field maturity via publication trends & patent signals |
-
----
-
 ## Tools
 
 | Repository | Description |
@@ -35,7 +25,18 @@ Postdoc at Itch research center
 | [slim-scrna-analyzer](https://github.com/mokimoki-22/slim-scrna-analyzer) | No-code single-cell RNA-seq analysis |
 | [trim-trajectory-analyzer](https://github.com/mokimoki-22/trim-trajectory-analyzer) | Single-cell trajectory analysis |
 | [sprim-spatial-analyzer](https://github.com/mokimoki-22/sprim-spatial-analyzer) | Spatial transcriptomics · no-code |
+## Research Tools
 
+
+---
+
+
+
+![Field Maturity Scanner](field_maturity_pipeline.svg)
+
+| Repository | Description |
+|---|---|
+| [field-maturity-scanner](https://github.com/mokimoki-22/field-maturity-scanner) | Research field maturity via publication trends & patent signals |
 ---
 
 <div align="center">
