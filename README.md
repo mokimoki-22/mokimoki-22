@@ -1,8 +1,8 @@
 <div align="center">
 
+## Moki
 
-
-Postdoc  · Sensory Neuroscience
+Postdoc · Juntendo University · Sensory Neuroscience
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9402--9387-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9402-9387)
 ![Visitors](https://komarev.com/ghpvc/?username=mokimoki-22&style=flat-square&color=888780&label=VISITORS)
@@ -14,8 +14,9 @@ Postdoc  · Sensory Neuroscience
 ## Research
 
 ```
-Spinal cord  ·  Skin immunology
-Chronic itch  
+Spinal cord  ·   ·  Skin immunology
+Sensory system  
+```
 
 ---
 
