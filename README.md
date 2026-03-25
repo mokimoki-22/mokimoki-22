@@ -15,7 +15,6 @@ Postdoc at Itch research center
 
 ![BRIM Ecosystem](brim_ecosystem.svg)
 
----
 
 ## Ecosystem Tools
 
