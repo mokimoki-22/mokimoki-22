@@ -11,12 +11,9 @@ Postdoc · Itch research center · Sensory Neuroscience
 
 ---
 
-## Research
+## Ecosystem
 
-```
-Spinal cord  ·   ·  Skin immunology
-Sensory system  
-```
+![BRIM Ecosystem](brim_ecosystem.svg)
 
 ---
 
