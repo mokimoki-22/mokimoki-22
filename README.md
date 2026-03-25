@@ -2,7 +2,7 @@
 
 ## Moki
 
-Postdoc at Itch research center 
+Postdoc at Itch research center
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9402--9387-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9402-9387)
 ![Visitors](https://komarev.com/ghpvc/?username=mokimoki-22&style=flat-square&color=888780&label=VISITORS)
@@ -17,6 +17,16 @@ Postdoc at Itch research center
 
 ---
 
+## Research Tools
+
+![Field Maturity Scanner](field_maturity_pipeline.svg)
+
+| Repository | Description |
+|---|---|
+| [field-maturity-scanner](https://github.com/mokimoki-22/field-maturity-scanner) | Research field maturity via publication trends & patent signals |
+
+---
+
 ## Tools
 
 | Repository | Description |
@@ -25,7 +35,6 @@ Postdoc at Itch research center
 | [slim-scrna-analyzer](https://github.com/mokimoki-22/slim-scrna-analyzer) | No-code single-cell RNA-seq analysis |
 | [trim-trajectory-analyzer](https://github.com/mokimoki-22/trim-trajectory-analyzer) | Single-cell trajectory analysis |
 | [sprim-spatial-analyzer](https://github.com/mokimoki-22/sprim-spatial-analyzer) | Spatial transcriptomics · no-code |
-| [field-maturity-scanner](https://github.com/mokimoki-22/field-maturity-scanner) | Research field maturity via publication trends |
 
 ---
 

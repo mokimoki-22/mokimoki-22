@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280">
+<defs>
+  <marker id="arr" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+    <polygon points="0 0, 8 3, 0 6" fill="#bbb"/>
+  </marker>
+</defs>
+
+<rect width="800" height="280" fill="#faf9f6" rx="15"/>
+<text x="400" y="36" font-family="sans-serif" font-size="17" font-weight="800" fill="#1a1a1a" text-anchor="middle">Field Maturity Scanner</text>
+
+<rect x="30" y="58" width="200" height="190" fill="#fff" rx="12" stroke="#e8e6e0" stroke-width="1.5"/>
+<text x="130" y="84" font-family="sans-serif" font-size="12" font-weight="700" fill="#457b9d" text-anchor="middle">01. Collect</text>
+<path d="M130 145 C108 145, 98 126, 112 114 C103 95, 130 82, 145 96 C163 87, 178 105, 168 124 C182 136, 168 153, 150 149 Z" fill="#457b9d" opacity="0.08" stroke="#457b9d" stroke-width="1.5"/>
+<line x1="130" y1="160" x2="130" y2="143" stroke="#457b9d" stroke-width="2.5" stroke-linecap="round"/>
+<polyline points="123,153 130,161 137,153" fill="none" stroke="#457b9d" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="130" y="192" font-family="sans-serif" font-size="12" fill="#666" text-anchor="middle">PubMed</text>
+<text x="130" y="212" font-family="sans-serif" font-size="12" fill="#666" text-anchor="middle">PatentsView</text>
+<text x="130" y="232" font-family="sans-serif" font-size="11" fill="#bbb" text-anchor="middle">2010 – 2024</text>
+
+<line x1="232" y1="153" x2="268" y2="153" stroke="#ccc" stroke-width="1.8" marker-end="url(#arr)"/>
+
+<rect x="270" y="58" width="260" height="190" fill="#fff" rx="12" stroke="#e8e6e0" stroke-width="1.5"/>
+<text x="400" y="84" font-family="sans-serif" font-size="12" font-weight="700" fill="#2a9d8f" text-anchor="middle">02. Classify</text>
+<text x="290" y="116" font-family="monospace" font-size="12" fill="#2a9d8f">pub trend</text>
+<text x="290" y="136" font-family="monospace" font-size="12" fill="#2a9d8f">review ratio</text>
+<text x="290" y="156" font-family="monospace" font-size="12" fill="#2a9d8f">patent signal</text>
+<line x1="288" y1="164" x2="512" y2="164" stroke="#2a9d8f" stroke-width="0.8" opacity="0.25"/>
+<text x="400" y="182" font-family="sans-serif" font-size="13" font-weight="700" fill="#2a9d8f" text-anchor="middle">→ phase</text>
+<rect x="284" y="196" width="54" height="22" rx="11" fill="#1D9E75" opacity="0.15"/>
+<text x="311" y="211" font-family="sans-serif" font-size="11" font-weight="700" fill="#0F6E56" text-anchor="middle">growth</text>
+<rect x="344" y="196" width="52" height="22" rx="11" fill="#EF9F27" opacity="0.2"/>
+<text x="370" y="211" font-family="sans-serif" font-size="11" font-weight="700" fill="#854F0B" text-anchor="middle">mature</text>
+<rect x="402" y="196" width="48" height="22" rx="11" fill="#888780" opacity="0.15"/>
+<text x="426" y="211" font-family="sans-serif" font-size="11" font-weight="700" fill="#444441" text-anchor="middle">stable</text>
+<rect x="456" y="196" width="52" height="22" rx="11" fill="#E24B4A" opacity="0.15"/>
+<text x="482" y="211" font-family="sans-serif" font-size="11" font-weight="700" fill="#A32D2D" text-anchor="middle">decline</text>
+
+<line x1="532" y1="153" x2="568" y2="153" stroke="#ccc" stroke-width="1.8" marker-end="url(#arr)"/>
+
+<rect x="570" y="58" width="200" height="190" fill="#fff" rx="12" stroke="#e8e6e0" stroke-width="1.5"/>
+<text x="670" y="84" font-family="sans-serif" font-size="12" font-weight="700" fill="#e63946" text-anchor="middle">03. Visualize</text>
+<line x1="598" y1="195" x2="742" y2="195" stroke="#ddd" stroke-width="1"/>
+<line x1="598" y1="195" x2="598" y2="110" stroke="#ddd" stroke-width="1"/>
+<polyline points="606,180 630,158 654,132 678,120 702,118 726,126 740,136" fill="none" stroke="#e63946" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="606,188 630,178 654,164 678,152 702,144 726,148 740,154" fill="none" stroke="#457b9d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="5 3"/>
+<text x="670" y="222" font-family="sans-serif" font-size="11" fill="#aaa" text-anchor="middle">interactive charts</text>
+<text x="670" y="238" font-family="sans-serif" font-size="11" fill="#aaa" text-anchor="middle">ja / en</text>
+
+</svg>
