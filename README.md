@@ -1,6 +1,6 @@
 <div align="center">
 
-## Moki
+
 
 Postdoc · Juntendo University · Sensory Neuroscience
 
