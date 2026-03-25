@@ -2,7 +2,7 @@
 
 
 
-Postdoc · Juntendo University · Sensory Neuroscience
+Postdoc  · Sensory Neuroscience
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0008--9402--9387-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0008-9402-9387)
 ![Visitors](https://komarev.com/ghpvc/?username=mokimoki-22&style=flat-square&color=888780&label=VISITORS)
@@ -14,10 +14,8 @@ Postdoc · Juntendo University · Sensory Neuroscience
 ## Research
 
 ```
-Spinal dorsal horn  ·  DRG biology  ·  Skin immunology
-Chronic itch  ·  E/I balance  ·  Mouse models (AEW · AD · IMQ)
-RNAscope in situ hybridization  ·  c-Fos expression analysis
-```
+Spinal cord  ·  Skin immunology
+Chronic itch  
 
 ---
 
