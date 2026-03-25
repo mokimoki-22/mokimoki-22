@@ -17,7 +17,7 @@ Postdoc at Itch research center
 
 ---
 
-## Tools
+## Ecosystem Tools
 
 | Repository | Description |
 |---|---|
@@ -25,7 +25,7 @@ Postdoc at Itch research center
 | [slim-scrna-analyzer](https://github.com/mokimoki-22/slim-scrna-analyzer) | No-code single-cell RNA-seq analysis |
 | [trim-trajectory-analyzer](https://github.com/mokimoki-22/trim-trajectory-analyzer) | Single-cell trajectory analysis |
 | [sprim-spatial-analyzer](https://github.com/mokimoki-22/sprim-spatial-analyzer) | Spatial transcriptomics · no-code |
-## Research Tools
+## Other Research Tools
 
 
 ---
