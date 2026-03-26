@@ -21,9 +21,7 @@ Postdoc at Itch research center
 | Repository | Description |
 |---|---|
 | [bulk-rnaseq-analyzer-demo](https://github.com/mokimoki-22/bulk-rnaseq-analyzer-demo) | Bulk RNA-seq · DEG, GSEA, TF activity, cell-type scoring |
-| [slim-scrna-analyzer](https://github.com/mokimoki-22/slim-scrna-analyzer) | No-code single-cell RNA-seq analysis |
-| [trim-trajectory-analyzer](https://github.com/mokimoki-22/trim-trajectory-analyzer) | Single-cell trajectory analysis |
-| [sprim-spatial-analyzer](https://github.com/mokimoki-22/sprim-spatial-analyzer) | Spatial transcriptomics · no-code |
+
 ## Other Research Tools
 
 
